@@ -1,0 +1,10 @@
+{
+    "bot_auth":{
+        "token":""
+    },
+    "other":{
+        "stock_channel_id":0, 
+        "news_api_key":"",
+        "currents_api":""
+    }
+}
